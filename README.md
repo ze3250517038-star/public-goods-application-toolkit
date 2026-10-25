@@ -7,7 +7,7 @@ full retrospective of every proposal one public grant programme received over tw
 
 ## 为什么有这个东西
 
-Conflux Integration Grants 两年收到 **36 份提案，只批了 4 份**（约 11%）；15 份挂着没有任何结论，
+Conflux Integration Grants 两年收到 **36 份提案，只批了 4 份**（约 11%）；14 份挂着没有任何结论，
 最老的一份从 2024-08 挂到 2026-09。更关键的是，被拒的绝大多数只收到一句
 `did not pass the grant committee's decision` —— **标准从来没被写下来，所以没人能从中学会**。
 
@@ -20,6 +20,7 @@ Conflux Integration Grants 两年收到 **36 份提案，只批了 4 份**（约
 | [`checklist.html`](checklist.html) | 40 项校验清单，单文件、零外链，可直接在浏览器打开或打印 |
 | [`checklist.md`](checklist.md) | 清单的纯文本源文件（便于 diff 和 fork） |
 | [`grant-application-template.md`](grant-application-template.md) | 过审模板「6 块」：问题→生态因果链 / 里程碑 / 预算 / 专属 KPI / 可验证交付物 / 团队合规 |
+| [`checklist.pdf`](checklist.pdf) | 2 页 A4 打印版，可直接发给评审 |
 | [`.github/ISSUE_TEMPLATE/application.md`](.github/ISSUE_TEMPLATE/application.md) | 把「我要申请」变成一张结构化任务单，逐条勾完再动笔 |
 
 需要 2 页 A4 的 PDF 版本时，用浏览器打开 `checklist.html` 直接打印即可；或在
