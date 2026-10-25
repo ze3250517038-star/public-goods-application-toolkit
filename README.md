@@ -23,8 +23,9 @@ Conflux Integration Grants 两年收到 **36 份提案，只批了 4 份**（约
 | [`checklist.pdf`](checklist.pdf) | 2 页 A4 打印版，可直接发给评审 |
 | [`.github/ISSUE_TEMPLATE/application.md`](.github/ISSUE_TEMPLATE/application.md) | 把「我要申请」变成一张结构化任务单，逐条勾完再动笔 |
 
-需要 2 页 A4 的 PDF 版本时，用浏览器打开 `checklist.html` 直接打印即可；或在
-[Issues](https://github.com/ze3250517038-star/public-goods-application-toolkit/issues) 里留一句，我们发给你。
+需要 2 页 A4 的 PDF 时直接用 [`checklist.pdf`](checklist.pdf)；想反馈或要新版，在
+[Issues](https://github.com/ze3250517038-star/public-goods-application-toolkit/issues) 里留一句。
+改了清单内容要重建 PDF，跑 `tools/make-pdf.ps1`（headless Chrome，固定输出 2 页 A4）。
 
 ## 怎么用
 
