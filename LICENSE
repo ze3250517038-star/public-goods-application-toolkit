@@ -1,6 +1,15 @@
-Solana 生态的赏金平台 Superteam Earn，写内容、做视频、做设计都能接单，做完拿 USDC/USDG，不用押资金。
+Documentation in this repository is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
 
-我最近在上面接单交稿，流程就是：看单 → 做东西 → 提交，赞助方评奖。
+    Full legal text:   https://creativecommons.org/licenses/by/4.0/legalcode
+    Human-readable:    https://creativecommons.org/licenses/by/4.0/
 
-用我的邀请链接注册，注册后投一单，我这边能多一次投递额度：
-https://superteam.fun/earn/r/24C8VC2
+You are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for any
+purpose, even commercially, provided you give appropriate credit, provide a
+link to the license, and indicate if changes were made.
+
+Scripts (files under tools/, and any *.ps1 or *.py files) are licensed under
+the MIT License: https://opensource.org/licenses/MIT
+
+Copyright (c) 2026 Lin Jiaze

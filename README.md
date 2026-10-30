@@ -35,10 +35,10 @@ Conflux Integration Grants 两年收到 **36 份提案，只批了 4 份**（约
 
 ## 许可
 
-- 文档与清单：**CC BY 4.0**
-- 脚本（如有）：**MIT**
+- 文档与清单：**CC BY 4.0**（全文见仓库根目录 `LICENSE`）
+- 脚本（`tools/`、`*.ps1`、`*.py`）：**MIT**
 
-署名可写 `Public Goods Application Toolkit`，也可以不署名使用。
+引用时请写 `Public Goods Application Toolkit`（作者 Lin Jiaze）并链回本仓库。按 CC BY 4.0，署名是条件，不是可选项。
 
 ## 版本
 
